@@ -20,9 +20,9 @@ Agent Skills are an [open standard](https://agentskills.ai) for packaging expert
 
 **Traditional content:** You read it → You apply it → You forget half of it.
 
-**Agent Skills:** Your agent reads it → Your agent applies it → Every time. Perfectly.
+**Agent Skills:** Your Hermes agent reads it → Your agent applies it → Every time. Perfectly.
 
-Think of it like giving Claude Code a playbook written by an expert. Instead of prompting from scratch every time, the skill provides the framework, questions, and output format automatically.
+Think of it like giving Hermes a playbook written by a collection of expert. Instead of prompting from scratch every time, the skill provides the framework, questions, and output format automatically.
 
 ---
 
@@ -30,14 +30,13 @@ Think of it like giving Claude Code a playbook written by an expert. Instead of 
 
 ```bash
 # Clone the repo
-git clone https://github.com/BrianRWagner/ai-marketing-claude-code-skills.git
-
-# Copy skills to Claude Code's skills folder
-mkdir -p ~/.claude/skills
-cp -r ai-marketing-claude-code-skills/* ~/.claude/skills/
+git clone https://github.com/CreativLogic/ai-marketing-skills.git
+# Copy skills to your Herme's skills folder
+mkdir -p ~/.hermes/skills
+cp -r ai-marketing-skills/* ~/.hermes/skills/
 ```
 
-That's it. Claude Code will now automatically use these skills when you mention related topics.
+That's it. Hermes will now automatically use these skills when you mention related topics.
 
 ---
 
@@ -64,7 +63,7 @@ Audit how a brand appears in AI-powered search and recommendation systems (ChatG
 ---
 
 #### 📚 Marketing Principles
-Apply timeless marketing and business principles from the masters (Drucker, Ogilvy, Godin, Buffett, Munger, Bezos, Jobs).
+Apply timeless marketing and business principles from the GOATS🐐 of Marketing & Business (Drucker, Ogilvy, Godin, Buffett, Munger, Bezos, Jobs).
 
 **Use when:** "First principles thinking", "Should I do X?", "What would work here?", strategic decisions
 
@@ -229,8 +228,8 @@ Deep work execution mode. When you have a clear task and need to execute without
 ### Quick Install (any platform)
 
 ```bash
-git clone https://github.com/BrianRWagner/ai-marketing-claude-code-skills.git
-cd ai-marketing-claude-code-skills
+git clone https://github.com/CreativLogic/ai-marketing-skills.git
+cd ai-marketing-skills
 bash scripts/install.sh
 ```
 
@@ -284,31 +283,19 @@ bash scripts/convert.sh --all   # convert for all platforms into ./converted/
 
 ---
 
-## 🔥 Premium Skills (Gumroad)
-
-Full Claude Code editions with structured reasoning phases, self-critique loops, and output precision.
-
-→ [Browse all on Gumroad](https://brianrwagner.gumroad.com)
-
-| Skill | Price | Link |
-|-------|-------|------|
-| AI Marketing Bundle (all 7) | $49 | [Buy →](https://brianrwagner.gumroad.com/l/brw-cc-marketing-bundle) |
-| AI Discoverability Audit v2 | $19 | [Buy →](https://brianrwagner.gumroad.com/l/ai-discoverability-audit) |
-| Founder Intelligence | $15 | [Buy →](https://brianrwagner.gumroad.com/l/brw-founder-intelligence) |
-| Competitor Intel Brief | $12 | [Buy →](https://brianrwagner.gumroad.com/l/brw-competitor-intel-brief) |
-| Morning Brief System | $14 | [Buy →](https://brianrwagner.gumroad.com/l/brw-morning-brief-system) |
-| Brand Voice Extractor | $9 | [Buy →](https://brianrwagner.gumroad.com/l/brand-voice-extractor) |
-| AI Employee Onboarding | $9 | [Buy →](https://brianrwagner.gumroad.com/l/brw-ai-employee-onboarding) |
-| Brand Positioning Audit | $9 | [Buy →](https://brianrwagner.gumroad.com/l/brw-brand-positioning-audit) |
 ## About
 
-Created by **Brian Wagner** — AI Marketing Architect
+Created by **Vinnie Rocco** — founder of Social Patter & Agentix Minds
 
-15+ years building marketing systems for Fortune 500s and startups. Now packaging that expertise for the AI era.
+If you'd like to work with me 1:1, visit agentixminds.com to join the waitlist.
+Want to have AI employees or an AIOS built and installed for you? 
+Check out my company Social Patter to see how to get started.
 
-- 🌐 [brianrwagner.com](https://brianrwagner.com)
-- 🐦 [@BrianRWagner](https://twitter.com/BrianRWagner)
-- 💼 [LinkedIn](https://linkedin.com/in/brianrwagner)
+10+ years building marketing systems for 7-8 figure companies and startups. Now opensourcing that expertise to help others.
+
+- 🌐 [agentixminds.com](https://agentixminds.com)
+- 🐦 [@askvinnierocco](https://x.com/askvinnierocco)
+- 💼 [LinkedIn](https://linkedin.com/in/vinnierocco)
 
 ---
 
