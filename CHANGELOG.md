@@ -44,7 +44,7 @@ All skills follow INTAKE→ANALYZE→OUTPUT structure. No autonomy triggers. You
 
 # Changelog
 
-All notable changes to the AI Marketing Skills for Claude Code library.
+All notable changes to the AI Marketing Skills library.
 
 ---
 
@@ -52,7 +52,7 @@ All notable changes to the AI Marketing Skills for Claude Code library.
 
 ### What Changed
 
-Major upgrade across 12 skills. Every updated skill was graded against the [Claude Code Skill Effectiveness Rubric](https://brianrwagner.com) and rebuilt to score 85+/100.
+Major upgrade across 12 skills. Every updated skill was graded against the [Hermes & Claude Code Skill Effectiveness Rubric](https://agentixminds.com) and rebuilt to score 85+/100.
 
 ### Added to all upgraded skills
 
