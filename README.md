@@ -1,6 +1,6 @@
-# AI Marketing Skills for Claude Code
+# AI Marketing Skills for Hermes, Claude or other AI Agents
 
-**Marketing frameworks that Claude Code actually executes.**
+**Imagine if Hermes was ressurected with all the knowledge fcrom the best marketers and entrepreneurs.**
 
 Not guides. Not courses. *Skills* — packaged expertise your AI coding agent loads and follows.
 
